@@ -1,0 +1,8 @@
+---
+layout: default
+img: myphoto.png
+category: Services
+title: About
+description: |
+---
+  My name is Viachelsav Avsenev. I have over 8 years of experience in the software development. Mostly it is .NET technologies with strong knowledge in the creation of desktop, web and data-processing solutions. Currently I work and live in Czech Republic.

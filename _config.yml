@@ -1,0 +1,44 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://snmslavk.github.io
+title: Viacheslav Avsenev Personal Webpage
+email: avsenev@hotmail.com
+author: Viacheslav Avsenev
+description: > # "Write an awesome description for your new site here. 
+  Viacheslav Avsenev Software Developer and Engineer
+copyright: 'Copyright &copy; 2017 Viacheslav Avsenev. All Rights Reserved.'
+credits: ''
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    faicon: twitter
+    url: https://twitter.com/vavsenev
+  - title: github
+    faicon: github
+    url: https://github.com/snmslavk
+  - title: linkedin
+    faicon: linkedin  
+    url: https://www.linkedin.com/in/avsenev
+  - title: stackoverflow
+    faicon: stack-overflow  
+    url: https://stackoverflow.com/users/1801080/viacheslav-avsenev
+  - title: nuget
+    faicon: windows
+    url: https://www.nuget.org/profiles/AvsenevViacheslav
+  - title: medium
+    faicon: medium
+    url: https://medium.com/@avsenev

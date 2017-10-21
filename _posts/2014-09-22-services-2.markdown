@@ -1,0 +1,16 @@
+---
+layout: default
+img: certificate-flat.png
+category: Services
+title: Certificates
+description: |
+---
+ 2017 Microsoft Certified Solution Developer: App Builder.<br/>
+ 2017 Microsoft Certified Solution Developer: Web Applications.<br/>
+ 2015 IELTS English certificate (Overall Score 7.0).<br/>
+ 2016 Free Code Camp. Front End Development. <br/>
+ 2017 Udemy. The complete node.js developer course.<br/>
+ 2009 BrainBench C# Master Certified.<br/>
+ 2016 Coursera, Algorithms, Part I.<br/>
+ 2016 Coursera, Algorithms, Part II.<br/>
+
