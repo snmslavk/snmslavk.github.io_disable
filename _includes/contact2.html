@@ -1,0 +1,56 @@
+<section id="contact">
+	<div class="banner">
+		<div class="container">
+			<div class="row">
+        <div class="col-xs-12">
+					<h2 style="margin-bottom:12px;">Contact</h2>
+
+          <form class="form-horizontal" action="https://formspree.io/{{ site.email }}" method="POST">
+						<div class="form-group">
+              <label for="inputName" class="col-sm-2 control-label">Hi, my name is</label>
+              <div class="col-sm-10">
+								<input type="text" name="name" class="form-control" id="inputName" placeholder="your name" required>
+              </div>
+            </div>
+
+						<div class="form-group">
+              <label for="inputEmail" class="col-sm-2 control-label">My email address is</label>
+              <div class="col-sm-10">
+                <input type="email" name="email" class="form-control" id="inputEmail" placeholder="your.email@example.com" required>
+              </div>
+            </div>
+
+						<div class="form-group">
+							<label for="selectServices" class="col-sm-2 control-label">I'm contacting about</label>
+							<div class="col-sm-10">
+								<select id="selectServices" class="form-control" name="services">
+									<option disabled selected value="choose">choose a service ...</option>
+									<option value="architecture">software architecture</option>
+                                    <option value="engineering">software engineering</option>
+                                    <option value="development">software development</option>
+                                    <option value="multiple">multiple services</option>
+                                    <option value="recruiter">I am a recruiter</option>
+									<option value="hello">just saying hello!</option>
+								</select>
+							</div>
+						</div>
+
+            <div class="form-group">
+              <label for="inputProjectDetails" class="col-sm-2 control-label">My project</label>
+              <div class="col-sm-10">
+                <textarea type="text" name="content" rows="5" class="form-control" id="inputProjectDetails" placeholder="tell us about your project, timeline, and budget"></textarea>
+              </div>
+            </div>
+
+            <div class="form-group">
+              <div class="col-sm-offset-2 col-sm-10">
+                <button type="submit" class="btn btn-default">Send</button>
+              </div>
+            </div>
+          </form>
+
+        </div><!-- /.col-xs-etc -->
+			</div><!-- /.row -->
+		</div><!-- /.container -->
+	</div><!-- /.banner -->
+</section>
