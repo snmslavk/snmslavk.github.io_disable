@@ -1,6 +1,5 @@
 ---
 layout: default
-img: myphoto.png
 category: Services
 title: About
 description: |
